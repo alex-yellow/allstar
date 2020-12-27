@@ -1,0 +1,316 @@
+Uri: http://astargroup.ru/
+File Name: D:\Работа\Копии\astargroup.ru\index.htm
+Content Type: text/html
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/style.css
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\style.css
+Content Type: text/css
+
+Uri: http://astargroup.ru/wp-content/plugins/favicons/icons/astor.ico
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\plugins\favicons\icons\astor.ico
+Content Type: image/x-icon
+
+Uri: http://astargroup.ru/feed
+File Name: D:\Работа\Копии\astargroup.ru\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/wp-content/plugins/advanced-spoiler/css/advanced-spoiler.css?ver=2.02
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\plugins\advanced-spoiler\css\advanced-spoiler.css
+Content Type: text/css
+
+Uri: http://astargroup.ru/wp-includes/wlwmanifest.xml
+File Name: D:\Работа\Копии\astargroup.ru\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://astargroup.ru/kontakty.html
+File Name: D:\Работа\Копии\astargroup.ru\kontakty.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/konsultacii.html
+File Name: D:\Работа\Копии\astargroup.ru\konsultacii.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/wp-content/plugins/wp-page-numbers/panther/wp-page-numbers.css
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\plugins\wp-page-numbers\panther\wp-page-numbers.css
+Content Type: text/css
+
+Uri: http://astargroup.ru/audit.html
+File Name: D:\Работа\Копии\astargroup.ru\audit.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/buxgalteriya.html
+File Name: D:\Работа\Копии\astargroup.ru\buxgalteriya.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/yuridicheskie-uslugi.html
+File Name: D:\Работа\Копии\astargroup.ru\yuridicheskie-uslugi.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/konsalting.html
+File Name: D:\Работа\Копии\astargroup.ru\konsalting.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/due-diligence-finansovaya-ekspertiza.html
+File Name: D:\Работа\Копии\astargroup.ru\due-diligence-finansovaya-ekspertiza.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/2011/08
+File Name: D:\Работа\Копии\astargroup.ru\2011\08.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/spravochnaya
+File Name: D:\Работа\Копии\astargroup.ru\category\spravochnaya.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/spravochnaya/kak-opredelit-pfr-po-ifns-v-moskve
+File Name: D:\Работа\Копии\astargroup.ru\category\spravochnaya\kak-opredelit-pfr-po-ifns-v-moskve.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/spravochnaya/kak-opredelit-fss-po-ifns-v-moskve
+File Name: D:\Работа\Копии\astargroup.ru\category\spravochnaya\kak-opredelit-fss-po-ifns-v-moskve.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/spravochnaya/sluzhby-zanyatosti-administrativnyx-okrugov-i-territorialnye-otdely
+File Name: D:\Работа\Копии\astargroup.ru\category\spravochnaya\sluzhby-zanyatosti-administrativnyx-okrugov-i-territorialnye-otdely.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/informatsya
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/informatsya/koncepciya-sistemy-vyezdnyx-poezdok
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\koncepciya-sistemy-vyezdnyx-poezdok.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/informatsya/nalogovaya-nagruzka
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\nalogovaya-nagruzka.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/informatsya/obrazcy-kvitancij-dlya-uplaty-gos-poshliny-v-moskve
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\obrazcy-kvitancij-dlya-uplaty-gos-poshliny-v-moskve.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/informatsya/opis-vlozheniya-v-cennoe-pismo
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\opis-vlozheniya-v-cennoe-pismo.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/informatsya/rentabelnost
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\rentabelnost.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/wp-includes/js/l10n.js?ver=20101110
+File Name: D:\Работа\Копии\astargroup.ru\wp-includes\js\l10n.js
+Content Type: application/javascript
+
+Uri: http://astargroup.ru/wp-includes/js/comment-reply.js?ver=20090102
+File Name: D:\Работа\Копии\astargroup.ru\wp-includes\js\comment-reply.js
+Content Type: application/javascript
+
+Uri: http://astargroup.ru/wp-includes/js/jquery/jquery.js?ver=1.4.4
+File Name: D:\Работа\Копии\astargroup.ru\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://astargroup.ru/wp-content/plugins/advanced-spoiler/js/jquery-spoiler.js?ver=2.02
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\plugins\advanced-spoiler\js\jquery-spoiler.js
+Content Type: application/javascript
+
+Uri: http://astargroup.ru/wp-content/uploads/2011/06/17n.jpg
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\uploads\2011\06\17n.jpg
+Content Type: image/jpeg
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/js/effects.js
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\js\effects.js
+Content Type: application/javascript
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/login.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\login.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/whitedot.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\whitedot.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/nav.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\nav.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/arrows-ffffff.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\arrows-ffffff.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/arrows-000000.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\arrows-000000.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/shadow.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\shadow.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/blackdot.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\blackdot.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/bg-hatch.gif
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\bg-hatch.gif
+Content Type: image/gif
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/h2line.gif
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\h2line.gif
+Content Type: image/gif
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/line.gif
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\line.gif
+Content Type: image/gif
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/commentarrow.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\commentarrow.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/quotes.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\quotes.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/audio.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\audio.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/themes/magazine-basic/images/link.png
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\themes\magazine-basic\images\link.png
+Content Type: image/png
+
+Uri: http://astargroup.ru/wp-content/plugins/advanced-spoiler/css/collapseicon.gif
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\plugins\advanced-spoiler\css\collapseicon.gif
+Content Type: image/gif
+
+Uri: http://astargroup.ru/audit/texnicheskij-i-yuridicheskij-audit.html
+File Name: D:\Работа\Копии\astargroup.ru\audit\texnicheskij-i-yuridicheskij-audit.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/2011/06
+File Name: D:\Работа\Копии\astargroup.ru\2011\06.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/2011/08/23
+File Name: D:\Работа\Копии\astargroup.ru\2011\08\23.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/opis.html
+File Name: D:\Работа\Копии\astargroup.ru\opis.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/spravochnaya/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\spravochnaya\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/fss-po-ifns.html
+File Name: D:\Работа\Копии\astargroup.ru\fss-po-ifns.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/pfr-po-ifns.html
+File Name: D:\Работа\Копии\astargroup.ru\pfr-po-ifns.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/nalogovaya-nagruzka-2.html
+File Name: D:\Работа\Копии\astargroup.ru\nalogovaya-nagruzka-2.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/rentabelnost.html
+File Name: D:\Работа\Копии\astargroup.ru\rentabelnost.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/sluzhby-zanyatosti-administrativnyx-okrugov-i-territorialnye-otdely.html
+File Name: D:\Работа\Копии\astargroup.ru\sluzhby-zanyatosti-administrativnyx-okrugov-i-territorialnye-otdely.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/spravochnaya/kak-opredelit-pfr-po-ifns-v-moskve/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\spravochnaya\kak-opredelit-pfr-po-ifns-v-moskve\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/category/spravochnaya/kak-opredelit-fss-po-ifns-v-moskve/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\spravochnaya\kak-opredelit-fss-po-ifns-v-moskve\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/category/spravochnaya/sluzhby-zanyatosti-administrativnyx-okrugov-i-territorialnye-otdely/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\spravochnaya\sluzhby-zanyatosti-administrativnyx-okrugov-i-territorialnye-otdely\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/category/informatsya/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/obrazcy-kvitancij.html
+File Name: D:\Работа\Копии\astargroup.ru\obrazcy-kvitancij.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/koncepciya-vyezdnyx-proverok.html
+File Name: D:\Работа\Копии\astargroup.ru\koncepciya-vyezdnyx-proverok.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/category/informatsya/koncepciya-sistemy-vyezdnyx-poezdok/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\koncepciya-sistemy-vyezdnyx-poezdok\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/category/informatsya/nalogovaya-nagruzka/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\nalogovaya-nagruzka\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/category/informatsya/obrazcy-kvitancij-dlya-uplaty-gos-poshliny-v-moskve/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\obrazcy-kvitancij-dlya-uplaty-gos-poshliny-v-moskve\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/category/informatsya/opis-vlozheniya-v-cennoe-pismo/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\opis-vlozheniya-v-cennoe-pismo\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/category/informatsya/rentabelnost/feed
+File Name: D:\Работа\Копии\astargroup.ru\category\informatsya\rentabelnost\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/2011/06/05
+File Name: D:\Работа\Копии\astargroup.ru\2011\06\05.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/2011/06/07
+File Name: D:\Работа\Копии\astargroup.ru\2011\06\07.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/2011/06/25
+File Name: D:\Работа\Копии\astargroup.ru\2011\06\25.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/2011/06/28
+File Name: D:\Работа\Копии\astargroup.ru\2011\06\28.html
+Content Type: text/html
+
+Uri: http://astargroup.ru/opis.html/feed
+File Name: D:\Работа\Копии\astargroup.ru\opis.html (1)\feed.xml
+Content Type: text/xml
+
+Uri: http://astargroup.ru/wp-content/files/Opis_vlozenia.doc
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\files\Opis_vlozenia.doc
+Content Type: application/msword
+
+Uri: http://astargroup.ru/wp-content/files/za-kopiu-ustava.doc
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\files\za-kopiu-ustava.doc
+Content Type: application/msword
+
+Uri: http://astargroup.ru/wp-content/files/sootvetstvie.doc
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\files\sootvetstvie.doc
+Content Type: application/msword
+
+Uri: http://astargroup.ru/wp-content/files/registratsia-ip.doc
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\files\registratsia-ip.doc
+Content Type: application/msword
+
+Uri: http://astargroup.ru/wp-content/files/registratsia-ul.doc
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\files\registratsia-ul.doc
+Content Type: application/msword
+
+Uri: http://astargroup.ru/wp-content/files/izmenenbe-documentov.doc
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\files\izmenenbe-documentov.doc
+Content Type: application/msword
+
+Uri: http://astargroup.ru/wp-content/files/za vipisku.doc
+File Name: D:\Работа\Копии\astargroup.ru\wp-content\files\za vipisku.doc
+Content Type: application/msword
+
